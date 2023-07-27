@@ -58,10 +58,8 @@ footer{
 @media screen and (max-width:768px){
   .step-box{
   width: 90%;
-  margin-bottom: 20px;
-  justify-content: center;
-  margin-left: auto;
-  margin-right:auto;
+  margin: 0 auto 20px auto;
+
 }
 
 main{
